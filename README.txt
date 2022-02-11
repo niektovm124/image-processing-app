@@ -1,8 +1,4 @@
 IMAGE PROCESSING APPLICATION
-By Ben Meadows and Toke Høiland-Jørgensen
-
-This application is a project assignment for the COMPSCI773 course,
-semester 1 2012, University of Auckland.
 
 The application lives in the `code/` subdirectory and is written in
 C++ using the Qt and OpenCV libraries. The `report/` subdirectory
